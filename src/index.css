@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300;400;500&family=Poppins:wght@100;200;500;600;700&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+body {
+  margin: 0;
+
+  font-family: "Poppins", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: "Poppins", sans-serif;
+  background-color: rgb(223, 239, 252);
+}
+
+td {
+  text-align: start;
+  color: rgb(0, 0, 0);
+  margin: 3px 1px;
+}
+th {
+  text-align: start;
+  color: rgba(223, 223, 223, 0.838);
+}
+
+#lineTab {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+tr {
+  text-align: start;
+}
+
+.device_circle {
+  width: 3rem;
+  height: 3rem;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  border: 5px solid #ffc000;
+  border-top-color: #ffc000;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: black;
+}
+
+.ordrio_icon {
+  color: black;
+}
+@media screen and (max-width: 600px) {
+  td {
+    font-size: 10px;
+    margin: 5px 1px;
+  }
+  .device_circle {
+    width: 2rem;
+    height: 2rem;
+  }
+  .top_icon,
+  .notify {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .smallscreenhide {
+    display: none;
+  }
+}

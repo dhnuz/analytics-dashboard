@@ -1,0 +1,573 @@
+{
+  "ordrioDashAPi": [
+    {
+      "linedata": [
+        {
+          "labels": [
+            "",
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Jun",
+            "Jul",
+            "Aug",
+            "Sep",
+            "Oct",
+            "Nov",
+            "Dec"
+          ],
+          "datasets": [
+            {
+              "label": "",
+              "data": [null, 12, 18, 16, 22, 17, 24, 20, 25],
+              "fill": false,
+              "borderColor": "#000",
+              "pointBorderWidth": 0
+            }
+          ]
+        }
+      ],
+
+      "orders": [
+        {
+          "id": "m4o4jo",
+          "orderNo": "ORD2530",
+          "customer": "Rahid R",
+          "status": "Recieved",
+          "statusBG": "#00ff15",
+          "orderValue": 250
+        },
+        {
+          "id": "uyju",
+          "orderNo": "ORD2529",
+          "customer": "Jose Patton",
+          "status": "Cancelled",
+          "statusBG": "#ff0000",
+          "orderValue": 20
+        },
+        {
+          "id": "uyjru",
+          "orderNo": "ORD2530",
+          "customer": "David Wilson",
+          "status": "Picked",
+          "statusBG": "#fff018",
+          "orderValue": 1250
+        },
+        {
+          "id": "dl4uu3n",
+          "orderNo": "ORD2530",
+          "customer": "Rahid R",
+          "status": "Recieved",
+          "statusBG": "#00ff15",
+          "orderValue": 250
+        },
+        {
+          "id": "upekejk",
+          "orderNo": "ORD2530",
+          "customer": "Jose Patton",
+          "status": "Cancelled",
+          "statusBG": "#ff0000",
+          "orderValue": 20
+        },
+        {
+          "id": "poiwpm",
+          "orderNo": "ORD2530",
+          "customer": "David Wilson",
+          "status": "Picked",
+          "statusBG": "#fff018",
+          "orderValue": 1250
+        }
+      ],
+      "customerDevice": [
+        {
+          "id": "dodp9eek",
+          "cusName": "Rahid R",
+          "cusDevice": "Android",
+          "cusInfo": "22 Oct 4:38 pm"
+        },
+        {
+          "id": "khdod",
+          "cusName": "David",
+          "cusDevice": "Android",
+          "cusInfo": "22 Oct 4:38 pm"
+        },
+        {
+          "id": "454feggw",
+          "cusName": "Wilson",
+          "cusDevice": "Website",
+          "cusInfo": "22 Oct 4:38 pm"
+        },
+        {
+          "id": "45gy8iw",
+          "cusName": "David",
+          "cusDevice": "Android",
+          "cusInfo": "22 Oct 4:38 pm"
+        },
+        {
+          "id": "eiuiouou",
+          "cusName": "Wilson",
+          "cusDevice": "Website",
+          "cusInfo": "22 Oct 4:38 pm"
+        }
+      ]
+    },
+    {
+      "linedata": [
+        {
+          "labels": [
+            "",
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Jun",
+            "Jul",
+            "Aug",
+            "Sep",
+            "Oct",
+            "Nov",
+            "Dec"
+          ],
+          "datasets": [
+            {
+              "label": ["assets"],
+              "data": [null, 5, 10, 5, 12, 19, 16, 24, 25],
+              "fill": false,
+              "hoverOffset": 15,
+              "borderColor": "#000",
+              "pointBorderWidth": 0
+            }
+          ]
+        }
+      ],
+
+      "orders": [
+        {
+          "id": "poiwpm",
+          "orderNo": "ORD2530",
+          "customer": "David Wilson",
+          "status": "Picked",
+          "statusBG": "#fff018",
+          "orderValue": 1250
+        },
+        {
+          "id": "m4o4jo",
+          "orderNo": "ORD2530",
+          "customer": "Rahid R",
+          "status": "Recieved",
+          "statusBG": "#00ff15",
+          "orderValue": 250
+        },
+        {
+          "id": "uyju",
+          "orderNo": "ORD2529",
+          "customer": "Jose Patton",
+          "status": "Cancelled",
+          "statusBG": "#ff0000",
+          "orderValue": 20
+        },
+        {
+          "id": "uyjru",
+          "orderNo": "ORD2530",
+          "customer": "David Wilson",
+          "status": "Picked",
+          "statusBG": "#fff018",
+          "orderValue": 1250
+        },
+        {
+          "id": "dl4uu3n",
+          "orderNo": "ORD2530",
+          "customer": "Rahid R",
+          "status": "Recieved",
+          "statusBG": "#00ff15",
+          "orderValue": 250
+        },
+        {
+          "id": "upekejk",
+          "orderNo": "ORD2530",
+          "customer": "Jose Patton",
+          "status": "Cancelled",
+          "statusBG": "#ff0000",
+          "orderValue": 20
+        }
+      ],
+      "customerDevice": [
+        {
+          "id": "eiuiouou",
+          "cusName": "Wilson",
+          "cusDevice": "Website",
+          "cusInfo": "30 Mar 4:38 pm"
+        },
+        {
+          "id": "dodp9eek",
+          "cusName": "Rahid R",
+          "cusDevice": "Android",
+          "cusInfo": "22 Oct 4:38 pm"
+        },
+        {
+          "id": "khdod",
+          "cusName": "David",
+          "cusDevice": "Android",
+          "cusInfo": "22 Oct 4:38 pm"
+        },
+        {
+          "id": "454feggw",
+          "cusName": "Wilson",
+          "cusDevice": "Website",
+          "cusInfo": "22 Oct 4:38 pm"
+        },
+        {
+          "id": "45gy8iw",
+          "cusName": "David",
+          "cusDevice": "Android",
+          "cusInfo": "22 Oct 4:38 pm"
+        }
+      ]
+    },
+    {
+      "linedata": [
+        {
+          "labels": [
+            "",
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Jun",
+            "Jul",
+            "Aug",
+            "Sep",
+            "Oct",
+            "Nov",
+            "Dec"
+          ],
+          "datasets": [
+            {
+              "label": ["assets"],
+              "data": [null, 12, 18, 16, 22, 20, 24, 22, 25],
+              "fill": false,
+              "hoverOffset": 15,
+              "borderColor": "#000",
+              "pointBorderWidth": 0
+            }
+          ]
+        }
+      ],
+
+      "orders": [
+        {
+          "id": "m4o4jo",
+          "orderNo": "ORD2530",
+          "customer": "Rahid R",
+          "status": "Recieved",
+          "statusBG": "#00ff15",
+          "orderValue": 250
+        },
+        {
+          "id": "uyju",
+          "orderNo": "ORD2529",
+          "customer": "Jose Patton",
+          "status": "Cancelled",
+          "statusBG": "#ff0000",
+          "orderValue": 20
+        },
+        {
+          "id": "uyjru",
+          "orderNo": "ORD2530",
+          "customer": "David Wilson",
+          "status": "Picked",
+          "statusBG": "#fff018",
+          "orderValue": 1250
+        },
+        {
+          "id": "dl4uu3n",
+          "orderNo": "ORD2530",
+          "customer": "Rahid R",
+          "status": "Recieved",
+          "statusBG": "#00ff15",
+          "orderValue": 250
+        },
+        {
+          "id": "upekejk",
+          "orderNo": "ORD2530",
+          "customer": "Jose Patton",
+          "status": "Cancelled",
+          "statusBG": "#ff0000",
+          "orderValue": 20
+        },
+        {
+          "id": "poiwpm",
+          "orderNo": "ORD2530",
+          "customer": "David Wilson",
+          "status": "Picked",
+          "statusBG": "#fff018",
+          "orderValue": 1250
+        }
+      ],
+      "customerDevice": [
+        {
+          "id": "dodp9eek",
+          "cusName": "Rahid R",
+          "cusDevice": "Android",
+          "cusInfo": "22 Oct 4:38 pm"
+        },
+        {
+          "id": "khdod",
+          "cusName": "David",
+          "cusDevice": "Android",
+          "cusInfo": "22 Oct 4:38 pm"
+        },
+        {
+          "id": "454feggw",
+          "cusName": "Wilson",
+          "cusDevice": "Website",
+          "cusInfo": "22 Oct 4:38 pm"
+        },
+        {
+          "id": "45gy8iw",
+          "cusName": "David",
+          "cusDevice": "Android",
+          "cusInfo": "22 Oct 4:38 pm"
+        },
+        {
+          "id": "eiuiouou",
+          "cusName": "Wilson",
+          "cusDevice": "Website",
+          "cusInfo": "22 Oct 4:38 pm"
+        }
+      ]
+    },
+    {
+      "linedata": [
+        {
+          "labels": [
+            "",
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Jun",
+            "Jul",
+            "Aug",
+            "Sep",
+            "Oct",
+            "Nov",
+            "Dec"
+          ],
+          "datasets": [
+            {
+              "label": ["assets"],
+              "data": [null, 12, 15, 18, 22, 23, 24, 20, 25],
+              "fill": false,
+              "hoverOffset": 15,
+              "borderColor": "#000",
+              "pointBorderWidth": 0
+            }
+          ]
+        }
+      ],
+
+      "orders": [
+        {
+          "id": "m4o4jo",
+          "orderNo": "ORD2530",
+          "customer": "Rahid R",
+          "status": "Recieved",
+          "statusBG": "#00ff15",
+          "orderValue": 250
+        },
+        {
+          "id": "uyju",
+          "orderNo": "ORD2529",
+          "customer": "Jose Patton",
+          "status": "Cancelled",
+          "statusBG": "#ff0000",
+          "orderValue": 20
+        },
+        {
+          "id": "uyjru",
+          "orderNo": "ORD2530",
+          "customer": "David Wilson",
+          "status": "Picked",
+          "statusBG": "#fff018",
+          "orderValue": 1250
+        },
+        {
+          "id": "dl4uu3n",
+          "orderNo": "ORD2530",
+          "customer": "Rahid R",
+          "status": "Recieved",
+          "statusBG": "#00ff15",
+          "orderValue": 250
+        },
+        {
+          "id": "upekejk",
+          "orderNo": "ORD2530",
+          "customer": "Jose Patton",
+          "status": "Cancelled",
+          "statusBG": "#ff0000",
+          "orderValue": 20
+        },
+        {
+          "id": "poiwpm",
+          "orderNo": "ORD2530",
+          "customer": "David Wilson",
+          "status": "Picked",
+          "statusBG": "#fff018",
+          "orderValue": 1250
+        }
+      ],
+      "customerDevice": [
+        {
+          "id": "dodp9eek",
+          "cusName": "Rahid R",
+          "cusDevice": "Android",
+          "cusInfo": "22 Oct 4:38 pm"
+        },
+        {
+          "id": "khdod",
+          "cusName": "David",
+          "cusDevice": "Android",
+          "cusInfo": "22 Oct 4:38 pm"
+        },
+        {
+          "id": "454feggw",
+          "cusName": "Wilson",
+          "cusDevice": "Website",
+          "cusInfo": "22 Oct 4:38 pm"
+        },
+        {
+          "id": "45gy8iw",
+          "cusName": "David",
+          "cusDevice": "Android",
+          "cusInfo": "22 Oct 4:38 pm"
+        },
+        {
+          "id": "eiuiouou",
+          "cusName": "Wilson",
+          "cusDevice": "Website",
+          "cusInfo": "22 Oct 4:38 pm"
+        }
+      ]
+    },
+    {
+      "linedata": [
+        {
+          "labels": [
+            "",
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Jun",
+            "Jul",
+            "Aug",
+            "Sep",
+            "Oct",
+            "Nov",
+            "Dec"
+          ],
+          "datasets": [
+            {
+              "label": ["assets"],
+              "data": [null, 5, 8, 13, 18, 22, 25, 20, 24],
+              "fill": false,
+              "hoverOffset": 15,
+              "borderColor": "#000",
+              "pointBorderWidth": 0
+            }
+          ]
+        }
+      ],
+
+      "orders": [
+        {
+          "id": "m4o4jo",
+          "orderNo": "ORD2530",
+          "customer": "Rahid R",
+          "status": "Recieved",
+          "statusBG": "#00ff15",
+          "orderValue": 250
+        },
+        {
+          "id": "uyju",
+          "orderNo": "ORD2529",
+          "customer": "Jose Patton",
+          "status": "Cancelled",
+          "statusBG": "#ff0000",
+          "orderValue": 20
+        },
+        {
+          "id": "uyjru",
+          "orderNo": "ORD2530",
+          "customer": "David Wilson",
+          "status": "Picked",
+          "statusBG": "#fff018",
+          "orderValue": 1250
+        },
+        {
+          "id": "dl4uu3n",
+          "orderNo": "ORD2530",
+          "customer": "Rahid R",
+          "status": "Recieved",
+          "statusBG": "#00ff15",
+          "orderValue": 250
+        },
+        {
+          "id": "upekejk",
+          "orderNo": "ORD2530",
+          "customer": "Jose Patton",
+          "status": "Cancelled",
+          "statusBG": "#ff0000",
+          "orderValue": 20
+        },
+        {
+          "id": "poiwpm",
+          "orderNo": "ORD2530",
+          "customer": "David Wilson",
+          "status": "Picked",
+          "statusBG": "#fff018",
+          "orderValue": 1250
+        }
+      ],
+      "customerDevice": [
+        {
+          "id": "dodp9eek",
+          "cusName": "Rahid R",
+          "cusDevice": "Android",
+          "cusInfo": "22 Oct 4:38 pm"
+        },
+        {
+          "id": "khdod",
+          "cusName": "David",
+          "cusDevice": "Android",
+          "cusInfo": "22 Oct 4:38 pm"
+        },
+        {
+          "id": "454feggw",
+          "cusName": "Wilson",
+          "cusDevice": "Website",
+          "cusInfo": "22 Oct 4:38 pm"
+        },
+        {
+          "id": "45gy8iw",
+          "cusName": "David",
+          "cusDevice": "Android",
+          "cusInfo": "22 Oct 4:38 pm"
+        },
+        {
+          "id": "eiuiouou",
+          "cusName": "Wilson",
+          "cusDevice": "Website",
+          "cusInfo": "22 Oct 4:38 pm"
+        }
+      ]
+    }
+  ]
+}
